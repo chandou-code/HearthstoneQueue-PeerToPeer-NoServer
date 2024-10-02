@@ -24,3 +24,12 @@ HearthstoneQueueCloudless 是一个自动化工具，通过监测在线笔记本
 ```bash
 pip install -r requirements.txt
 
+## 配置文件
+
+编辑 `config.json` 文件。填入你的 Cookie 信息，并输入你的战网安装目录中 `Battle.net.exe` 的绝对路径。
+
+```json
+{
+    "cookie": "你的Cookie",
+    "battle_net_path": "C:\\Program Files (x86)\\Battle.net\\Battle.net.exe"
+}
