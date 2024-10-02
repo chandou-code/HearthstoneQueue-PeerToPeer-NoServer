@@ -1,6 +1,6 @@
 # HearthstoneQueue-PeerToPeer-NoServer
 
-## 自动化《炉石传说》排队工具
+## 🎮 自动排队《炉石传说》
 
 ### 功能概述
 通过监测在线笔记本网站 [http://www.xnote.cn/note/](http://www.xnote.cn/note/) 个人主页上第一个帖子的标题变化，通过手机远程自动开启电脑上《炉石传说》的排队功能。
