@@ -1,0 +1,9 @@
+{
+    "headers": {
+        "Cookie": "PHPSESSID=a47f58ib8mvmias35nb2qgilp0; Hm_lvt_a2d436321f525baeeb4021f7c9f3047d=1727846265; HMACCOUNT=3A0A872D3EB373A6; default[username]=chandou; Hm_lpvt_a2d436321f525baeeb4021f7c9f3047d=1727846331",
+        "Referer": "http://www.xnote.cn/note/add",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"
+    },
+    "sleep_time": 3,
+    "file_path": "E:\\Battle.net\\Battle.net.exe"
+}
